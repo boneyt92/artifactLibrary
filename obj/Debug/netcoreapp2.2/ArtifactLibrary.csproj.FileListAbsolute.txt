@@ -1,0 +1,8 @@
+C:\D_Drive\Projects\VStudio\ArtifactLibrary\bin\Debug\netcoreapp2.2\ArtifactLibrary.deps.json
+C:\D_Drive\Projects\VStudio\ArtifactLibrary\bin\Debug\netcoreapp2.2\ArtifactLibrary.dll
+C:\D_Drive\Projects\VStudio\ArtifactLibrary\bin\Debug\netcoreapp2.2\ArtifactLibrary.pdb
+C:\D_Drive\Projects\VStudio\ArtifactLibrary\obj\Debug\netcoreapp2.2\ArtifactLibrary.csproj.CoreCompileInputs.cache
+C:\D_Drive\Projects\VStudio\ArtifactLibrary\obj\Debug\netcoreapp2.2\ArtifactLibrary.AssemblyInfoInputs.cache
+C:\D_Drive\Projects\VStudio\ArtifactLibrary\obj\Debug\netcoreapp2.2\ArtifactLibrary.AssemblyInfo.cs
+C:\D_Drive\Projects\VStudio\ArtifactLibrary\obj\Debug\netcoreapp2.2\ArtifactLibrary.dll
+C:\D_Drive\Projects\VStudio\ArtifactLibrary\obj\Debug\netcoreapp2.2\ArtifactLibrary.pdb
